@@ -4,14 +4,14 @@
 
 <?php
 echo "<h2>PHP is Fun!</h2>";
-echo "Hello world!<br>";
+echo "Hello World!<br>";
 echo "I'm about to learn PHP!<br>";
 echo "This ", "string ", "was ", "made ", "with multiple parameters.";
 ?> 
 
 <?php
 $txt1 = "Learn PHP";
-$txt2 = "W3Schools.com";
+$txt2 = "mdjakarianur.com";
 $x = 5;
 $y = 4;
 
